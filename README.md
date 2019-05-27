@@ -10,8 +10,4 @@
 #### Nuke/kickall
 #### DLL
 
-# Vipro Bot
-
-# LINE ME
-
-http://line.me/ti/p/~gjxvipro
+# ainXX Bot
